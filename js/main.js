@@ -51,7 +51,7 @@ const casesData = [
     },
     {
         id: 4,
-        company: '阿里巴巴集团',
+        company: '字节跳动（抖音）集团',
         title: '电商策略产品',
         shortDesc: '围绕新用户首购转化设计激励策略，通计并验证低门槛激励策略增量价值，并平衡转化效率与ROI。',
         fullDesc: {
@@ -174,7 +174,7 @@ const timelineData = [
     },
     {
         date: '2025.7 — 2025.9',
-        title: '阿里巴巴（北京） · 产品实习',
+        title: '字节跳动（北京） · 产品实习',
         desc: '在头部互联网公司承担核心功能模块，拓宽对产品方法论的认知边界。',
         type: 'minor',
         column: 'left'
